@@ -51,7 +51,6 @@
     background-color: #23527c;
   }
   
-  /* Navbar Styles */
   
   .navbar {
     background-color: #333;
@@ -82,7 +81,6 @@
     color: #ccc;
   }
   
-  /* Hero Section Styles */
   
   .hero {
     background-image: linear-gradient(to bottom, #337ab7, #23527c);
@@ -129,7 +127,7 @@
     background-color: #ccc;
   }
   
-  /* Coaching Support Styles */
+
   
   .coaching-support {
     background-color: #f7f7f7;
@@ -163,7 +161,7 @@
     background-color: #23527c;
   }
   
-  /* Available Countries Styles */
+
   
   .available-countries {
     background-color: #f7f7f7;
@@ -194,7 +192,7 @@
     padding-left: 20px;
   }
   
-  /* Ticket Booking Styles */
+
   
   .ticket-booking {
     background-color: #f7f7f7;
@@ -226,3 +224,4 @@
   
   .ticket-booking button {
     background-color: #337ab
+  }
